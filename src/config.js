@@ -1,6 +1,6 @@
 'use strict'
 
-var CONFIG_FILE = '.remix.config'
+var CONFIG_FILE = ' .remix.config'
 
 function Config (storage) {
   this.items = {}
